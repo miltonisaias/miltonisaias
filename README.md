@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning HTML | JavaScript |
 ##
-
-  <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
   
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
