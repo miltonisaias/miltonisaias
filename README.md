@@ -5,14 +5,14 @@
   
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hi, my name is Milton Isaías and I'm currently 23 years old,<br><br> Studying Computer Science and Studying Programming. 
+Hi, my name is Milton Isaías and I'm currently 23 years old,<br><br> 🖥 Studying Computer Science and Studying Programming 🖥
 </p>
 <!-- QUOTE -->
 <br>
 <p align="center">
-"xxx."
+"A person who never made a mistake, never tried anything new."
 <br>
-― xxx
+― Albert Einstein 🧠
 </p>
 <br>
  
