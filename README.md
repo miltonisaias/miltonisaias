@@ -14,8 +14,6 @@ Hi, my name is Milton Isaías and I'm currently 23 years old,<br><br> 🖥 Study
 <br>
 ― Albert Einstein 🧠
 </p>
-<br>
- 
 ##
 <div align="center">
   <a href="https://github.com/miltonisaias">
