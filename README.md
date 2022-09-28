@@ -10,9 +10,9 @@ Hi, my name is Milton Isaías and I'm currently 23 years old,<br><br> Studying C
 <!-- QUOTE -->
 <br>
 <p align="center">
-"May your work be perfect so that, even after your death, it remains."
+"xxx."
 <br>
-― Leonardo da Vinci
+― xxx
 </p>
 <br>
  
