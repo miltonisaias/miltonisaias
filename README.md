@@ -1,16 +1,37 @@
-### Hi there 👋
+### 🔥 Milton Isaías
 
-<!--
-**miltonisaias/miltonisaias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning HTML | JavaScript |
+##
 
-Here are some ideas to get you started:
+  <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
+  
+<!-- ABOUT OF ME -->
+<p align="center" style="text-align: center;">
+Hi, my name is Milton Isaías and I'm currently 23 years old,<br><br> Studying Computer Science and Studying Programming. 
+</p>
+<!-- QUOTE -->
+<br>
+<p align="center">
+"May your work be perfect so that, even after your death, it remains."
+<br>
+― Leonardo da Vinci
+</p>
+<br>
+ 
+##
+<div align="center">
+  <a href="https://github.com/miltonisaias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltonisaias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonisaias&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  
+<div align="center">
+  <a href="https://www.instagram.com/o1000ton/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/milton-de-oliveira-4b5225203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+  
+  
+<p align="center">
+- 📫 How to reach me: <a href="mailto:milton_isaias_julio@hotmail.com">milton_isaias_julio@hotmail.com</a>
+</p>
