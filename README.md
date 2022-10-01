@@ -1,6 +1,6 @@
 ### 🔥 Milton Isaías
 
-- 🌱 I’m currently learning HTML | JavaScript |
+- 🌱 I’m currently learning HTML | CSS | JavaScript | Python |
 ##
   
 <!-- ABOUT OF ME -->
